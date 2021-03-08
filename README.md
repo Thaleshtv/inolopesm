@@ -1,16 +1,30 @@
-### Hi there 👋
+## Olá, eu sou Matheus Inocêncio!
 
-<!--
-**inolopesm/inolopesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*(Quase) Cientista da Computação pela [UNIPÊ](https://www.unipe.edu.br/)*
 
-Here are some ideas to get you started:
+*Estagiário de Desenvolvimento de Sistemas na [Moovery](https://www.moovery.app/)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn: inolopesm](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inolopesm)
+
+### Um pouco mais sobre mim
+
+```javascript
+ const matheus = {
+  linguagens: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  pergunteMeSobre: ['Desenvolvimento Web', 'Tecnologia', 'Aplicativos Web', 'Padrões de Projetos'],
+  tecnologias: {
+    mobileApp: ['Cordova', 'React Native'],
+    frontEnd: {
+      js: ['Vanilla', 'React', 'JQuery', 'NextJS'],
+      css: ['Bootstrap', 'Bulma']
+    },
+    backEnd: {
+      js: ['node', 'express', 'adonis'],
+      python: ['django']
+    },
+    devOps: ['AWS', 'Docker', 'NGINX'],
+    databases: ['MySQL', 'MongoDB', 'SQLite'],
+    misc: ['socket.io', 'PHP', 'Java', 'C', 'Go', 'Python']
+  }
+}
+```
