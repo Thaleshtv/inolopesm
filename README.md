@@ -2,7 +2,7 @@
 
 *(Quase) Cientista da Computação pela [UNIPÊ](https://www.unipe.edu.br/) :student:*
 
-*Estagiário de Desenvolvimento de Sistemas na [Moovery](https://www.moovery.app/) :motor_scooter:*
+*Coordenador de Desenvolvimento de Sistemas na [Moovery](https://www.moovery.app/) :motor_scooter:*
 
 ### Contate-me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inolopesm)
